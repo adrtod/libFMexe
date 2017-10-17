@@ -40,4 +40,3 @@ head(movie_lens_libFM)
 \seealso{
 \code{\link{model_frame_libFM}}, \code{\link{matrix_libFM}}
 }
-

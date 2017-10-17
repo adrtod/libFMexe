@@ -18,4 +18,3 @@ vector of integers with group labels of the variables
 \description{
 Extract grouping of variables based on formula
 }
-

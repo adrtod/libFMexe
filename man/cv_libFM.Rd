@@ -3,9 +3,9 @@
 \name{cv_libFM}
 \alias{cv_libFM}
 \alias{cv_libFM.data.frame}
-\alias{cv_libFM.default}
-\alias{cv_libFM.dgCMatrix}
 \alias{cv_libFM.matrix}
+\alias{cv_libFM.dgCMatrix}
+\alias{cv_libFM.default}
 \title{Cross validation for rank and initialization standard deviation
 with libFM factorization machines}
 \usage{
@@ -79,6 +79,7 @@ This function attempts to speed things up by converting all the data to libFM fo
 
 \item \code{default}: 
 }}
+
 \examples{
 \dontrun{
 data(movie_lens)
@@ -97,4 +98,3 @@ mses
 \seealso{
 \code{\link{libFM}}
 }
-

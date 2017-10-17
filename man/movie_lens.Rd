@@ -33,4 +33,3 @@ Herlocker, J., Konstan, J., Borchers, A., Riedl, J.. An Algorithmic Framework
  Research and Development in Information Retrieval. Aug. 1999.
 }
 \keyword{datasets}
-
